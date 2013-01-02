@@ -100,6 +100,7 @@
 ;;----------------------------------------------------------------------------
 (require 'init-locales)
 
+(menu-bar-mode 0)
 
 ;; Local Variables:
 ;; no-byte-compile: t
