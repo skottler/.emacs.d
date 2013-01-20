@@ -66,6 +66,7 @@
 (require 'init-slime)
 (require 'init-clojure)
 (require 'init-common-lisp)
+(require 'init-go)
 
 (when *spell-check-support-enabled*
   (require 'init-spelling))
